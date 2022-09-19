@@ -1,6 +1,10 @@
 # Projeto Dado Humanizado! Python Crias
  Trienamento GRATUITO - Python Cria: da faixa branca a verde
 
+## Vídeo de apresentação
+
+[![Watch the video](Informações/chamada.jpg)](https://youtu.be/vt5fpE0bzSY)
+
 ## Sobre o que é?
 
 Faaalaaaa coisa rica! Td bem com vc?
@@ -38,6 +42,8 @@ Sua doação fará com que uma criança, possa curtir o dia de forma mais leve e
 ## Aonde assisto as aulas?
 
 Em meu canal do Youtube: http://youtube.com/c/ClaudioBonel
+<br>
+Para acessar diretamente, acesse a lista Python crias: 
 
 ## Conteúdo do treinamento
 
