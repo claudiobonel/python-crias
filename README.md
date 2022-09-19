@@ -3,7 +3,7 @@
 
 ## Vídeo de apresentação
 
-[![Watch the video](Informações/chamada.jpg)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](Informações/chamada.jpg)](https://youtu.be/5rjzp_v_Bxc)
 
 ## Sobre o que é?
 
