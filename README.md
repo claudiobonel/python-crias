@@ -41,7 +41,7 @@ Em meu canal do Youtube: http://youtube.com/c/ClaudioBonel
 
 ## Conteúdo do treinamento
 
-<img src="Python_crias_visao_geral.png" width="25"/>
+<img src="Python_crias_visao_geral.png" width="250"/>
 
 ## Contatos
 
