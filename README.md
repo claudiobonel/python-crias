@@ -47,6 +47,9 @@ Para acessar diretamente, acesse a lista Python crias: https://www.youtube.com/w
 
 ## Conteúdo do treinamento
 
+Para realizar o treinamento, você pode desenvolver utilizando o VS Code habilitado para Python (que é o que utilizo). Para realizar a instalação, basta seguir o tutorial: https://code.visualstudio.com/docs/languages/python
+<br>
+<br>
 <img src="Informações/Python_crias_visao_geral.png" width="750"/>
 
 ## Contatos
