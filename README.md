@@ -1,5 +1,10 @@
 # Projeto Dado Humanizado! Python Crias
- Trienamento GRATUITO - Python Cria: da faixa branca a verde
+
+Trienamento GRATUITO - Python Cria: da faixa branca a verde
+<br>
+<br>
+Para realizar o treinamento, você pode desenvolver utilizando o VS Code habilitado para Python (que é o que utilizo). A instalação é simples! Basta seguir o tutorial: https://code.visualstudio.com/docs/languages/python
+<br>
 
 ## Vídeo de apresentação
 
@@ -47,9 +52,6 @@ Para acessar diretamente, acesse a lista Python crias: https://www.youtube.com/w
 
 ## Conteúdo do treinamento
 
-Para realizar o treinamento, você pode desenvolver utilizando o VS Code habilitado para Python (que é o que utilizo). Para realizar a instalação, basta seguir o tutorial: https://code.visualstudio.com/docs/languages/python
-<br>
-<br>
 <img src="Informações/Python_crias_visao_geral.png" width="750"/>
 
 ## Contatos
