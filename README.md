@@ -43,7 +43,7 @@ Sua doação fará com que uma criança, possa curtir o dia de forma mais leve e
 
 Em meu canal do Youtube: http://youtube.com/c/ClaudioBonel
 <br>
-Para acessar diretamente, acesse a lista Python crias: 
+Para acessar diretamente, acesse a lista Python crias: https://www.youtube.com/watch?v=5rjzp_v_Bxc&list=PLPP4r1UqnhGp_qRQYP0d9ipLwjFKb_EQ4
 
 ## Conteúdo do treinamento
 
