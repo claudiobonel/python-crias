@@ -47,7 +47,7 @@ Para acessar diretamente, acesse a lista Python crias: https://www.youtube.com/w
 
 ## Conteúdo do treinamento
 
-<img src="Python_crias_visao_geral.png" width="750"/>
+<img src="Informações/Python_crias_visao_geral.png" width="750"/>
 
 ## Contatos
 
